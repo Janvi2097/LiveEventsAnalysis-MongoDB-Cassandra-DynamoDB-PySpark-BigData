@@ -1,2 +1,2 @@
 # LiveEventsAnalysis-MongoDB-Cassandra-DynamoDB-PySpark-BigData
- Sentiment Analysis of YouTube and Twitter using Big Data Technologies
+ Big Data, MongoDB, Cassandra, PySpark, BigData
